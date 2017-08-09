@@ -246,7 +246,7 @@
                                     </div>
                                 </div>
 
-                                 <div class="panel panel-default">
+                                <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h4 class="panel-title">
                                             <a data-toggle="collapse" data-parent="#jquery" href="#jquery4"><span class="text-black-bold">Bài 04</span> : Hiệu ứng Animate </a>
@@ -259,6 +259,38 @@
                                                <li>Fade</li>
                                                <li>Slide</li>
                                                <li>Animate</li>
+                                               <li>Stop()</li>
+                                               <li>Callback</li>
+                                               <li>Chaining</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#jquery" href="#jquery5"><span class="text-black-bold">Bài 05</span> : HTML  </a>
+                                        </h4>
+                                    </div>
+                                    <div id="jquery5" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            <ol>
+                                               <li>Get ( .text() lấy nội dung , .html() lấy cả thẻ html , .val() lấy nội dung input</li>
+                                               <li>Set (.text( gán nội dung ) => tương tự ) </li>
+                                               <li>Add
+                                                    <ul>
+                                                        <li>Append( Chèn nội dung ở cuối phần tử ) </li>
+                                                        <li>prepend( Chèn nội dung ở đầu phần tử đc chọn phần tử ) </li>
+                                                        <li>after( Chèn nội dung ở sau phần tử đc chọn phần tử ) </li>
+                                                        <li>Before( Chèn nội dung ở trước phần tử đc chọn phần tử ) </li>
+                                                    </ul>
+                                               </li>
+                                               <li>Remove
+                                                    <ul>
+                                                        <li>Remove gỡ bỏ phần tử đã chọn và phần tử con của nó</li>
+                                                        <li>Empty Gỡ bỏ phần tử con  khỏi phần tử cha của nó </li>
+                                                    </ul>
+                                                </li>
                                                <li>Stop()</li>
                                                <li>Callback</li>
                                                <li>Chaining</li>
