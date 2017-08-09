@@ -1,0 +1,2 @@
+#main{margin-top:20px}#main a{text-decoration:none !important}#main a:hover,#main a:visited,#main a:active{text-decoration:none !important}#main a:hover{color:red}#main .text-red-bold{color:red;font-weight:bold}#main .hover-zoom-click{box-shadow:0px 0px 150px #000000;z-index:2;transition:all 200ms ease-in;transform:scale(2);position:absolute;top:50%;left:50%;cursor:position}#main .text-black-bold{color:black;font-weight:bold}
+/*# sourceMappingURL=style.css.map */
